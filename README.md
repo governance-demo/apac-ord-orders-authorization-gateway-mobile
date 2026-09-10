@@ -1,2 +1,6 @@
 # apac-ord-orders-authorization-gateway-mobile
-orders / critical / apac
+
+Team: **orders**  
+Tier: **critical**  
+Region: **apac**  
+Synthetic demo repo for the Domo governance platform.
